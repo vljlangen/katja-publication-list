@@ -2362,6 +2362,7 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">book-chapters.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">finnish-publications.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">popular-articles.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">theses.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1" nocite="1">*</bcf:citekey>

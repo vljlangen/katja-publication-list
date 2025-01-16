@@ -84,6 +84,7 @@
       <file>book-chapters.bib</file>
       <file>finnish-publications.bib</file>
       <file>popular-articles.bib</file>
+      <file>theses.bib</file>
     </requires>
   </external>
 </requests>

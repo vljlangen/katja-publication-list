@@ -1,17 +1,18 @@
 # Fdb version 4
-["biber publication-template-separate"] 1737063502 "publication-template-separate.bcf" "publication-template-separate.bbl" "publication-template-separate" 1737063507 0
+["biber publication-template-separate"] 1737063922 "publication-template-separate.bcf" "publication-template-separate.bbl" "publication-template-separate" 1737063928 0
   "./book-chapters.bib" 1737062246 4946 4855c127fc02452cf9e7bf305c720d0e ""
   "./finnish-publications.bib" 1737063445 7452 cc08459c22616837088b32a475f4ebe4 ""
   "./international-peer-reviewed.bib" 1737060328 23958 cff9ad3b33974c4717037e94c34033df ""
   "./popular-articles.bib" 1737063132 3651 4e1b993625dd163c69f2b21099185741 ""
-  "publication-template-separate.bcf" 1737063507 108031 0b9463004444547a90c5669826154c1f "pdflatex"
+  "./theses.bib" 1737063880 977 744d1066740ee4aedccfb9542e3752ac ""
+  "publication-template-separate.bcf" 1737063927 108122 6470d28442238561c2748f60c7bd5838 "pdflatex"
   (generated)
   "publication-template-separate.bbl"
   "publication-template-separate.blg"
   (rewritten before read)
-["pdflatex"] 1737063506 "/Users/ville/projects/latex/katja-publication-list/publication-template-separate.tex" "publication-template-separate.pdf" "publication-template-separate" 1737063507 0
-  "/Users/ville/projects/latex/katja-publication-list/publication-template-separate.tex" 1737063500 1198 f846322ca1c6d0a7f11c5aa9636942aa ""
-  "/dev/null" 1737063506 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1737063926 "/Users/ville/projects/latex/katja-publication-list/publication-template-separate.tex" "publication-template-separate.pdf" "publication-template-separate" 1737063928 0
+  "/Users/ville/projects/latex/katja-publication-list/publication-template-separate.tex" 1737063920 1316 b15b577d11267e7e689c1560ae9349cf ""
+  "/dev/null" 1737063926 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm" 1136768653 2796 d37c29814a6717720ee1a7c9a0b2c3b8 ""
@@ -143,11 +144,11 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710103833 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1710103831 7883457 eb4f553dff48a9ba815d694475bf4eee ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "publication-template-separate.aux" 1737063507 13154 f445e40867a1cc8fe7692efe92d7ec4c "pdflatex"
-  "publication-template-separate.bbl" 1737063504 147692 71c36eb73432e22a6a217fa4d265d946 "biber publication-template-separate"
-  "publication-template-separate.out" 1737063507 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "publication-template-separate.run.xml" 1737063507 2652 59a6dbe13e00d7c4759ffcc884e58c1a "pdflatex"
-  "publication-template-separate.tex" 1737063500 1198 f846322ca1c6d0a7f11c5aa9636942aa ""
+  "publication-template-separate.aux" 1737063927 13464 f610f40705344fa20712000457f9c92a "pdflatex"
+  "publication-template-separate.bbl" 1737063924 150827 7669b533f69ebfabddca9eb50a8a16ae "biber publication-template-separate"
+  "publication-template-separate.out" 1737063927 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "publication-template-separate.run.xml" 1737063927 2682 dcb913f07509239d9676e6c0daa6787d "pdflatex"
+  "publication-template-separate.tex" 1737063920 1316 b15b577d11267e7e689c1560ae9349cf ""
   (generated)
   "publication-template-separate.aux"
   "publication-template-separate.bcf"
