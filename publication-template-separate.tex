@@ -1,0 +1,25 @@
+\documentclass[nobib]{tufte-book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[backend=biber,natbib=true,defernumbers=true,
+            sorting=ydnt,           % Sort by year (descending)
+            labelnumber=true,       % Enable numbering
+            defernumbers=true]{biblatex}     % Reset numbering for each section
+
+\addbibresource{international-peer-reviewed.bib}
+\addbibresource{book-chapters.bib}
+
+\setcounter{maxnames}{999}        % Show all authors
+
+\begin{document}
+
+\nocite{*}
+\renewcommand\bibname{List of Publications}
+\printbibheading
+
+% Print each section with its own numbering
+\printbibliography[subtype=international-peer-reviewed,heading=subbibliography,title=International Peer-Reviewed Articles,resetnumbers=true]
+\printbibliography[subtype=book-chapter,heading=subbibliography,title=Book Chapters,resetnumbers=true]
+
+\end{document} 
