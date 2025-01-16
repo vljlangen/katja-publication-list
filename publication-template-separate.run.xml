@@ -82,6 +82,8 @@
     <requires type="editable">
       <file>international-peer-reviewed.bib</file>
       <file>book-chapters.bib</file>
+      <file>finnish-publications.bib</file>
+      <file>popular-articles.bib</file>
     </requires>
   </external>
 </requests>
