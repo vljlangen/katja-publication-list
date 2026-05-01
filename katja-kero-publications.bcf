@@ -2359,8 +2359,10 @@
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">international-peer-reviewed.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">international-peer-reviewed-submitted.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">book-chapters.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">finnish-publications.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">accepted-finnish-articles.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">popular-articles.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex" glob="false">theses.bib</bcf:datasource>
   </bcf:bibdata>

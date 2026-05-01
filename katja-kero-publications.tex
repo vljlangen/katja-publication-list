@@ -1,0 +1,66 @@
+\documentclass[nobib]{tufte-book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[none]{hyphenat}    % Disable hyphenation
+\usepackage[backend=biber,
+            natbib=true,
+            defernumbers=true,
+            sorting=ydnt,           % Sort by year (descending)
+            labelnumber=true,       % Enable numbering
+            maxbibnames=999,        % Show all authors in bibliography
+            maxcitenames=999,       % Show all authors in citations
+            minnames=999,           % Never use et al.
+            maxnames=999]{biblatex} % Maximum number of names
+
+% Adjust text width while preserving left margin
+\setlength{\textwidth}{1.45\textwidth}  % Increase text width by 30%
+\setlength{\marginparwidth}{0pt}       % Remove margin note space
+\setlength{\marginparsep}{0pt}         % Remove margin separation
+
+
+\addbibresource{international-peer-reviewed.bib}
+\addbibresource{international-peer-reviewed-submitted.bib}
+\addbibresource{book-chapters.bib}
+\addbibresource{finnish-publications.bib}
+\addbibresource{accepted-finnish-articles.bib}
+\addbibresource{popular-articles.bib}
+\addbibresource{theses.bib}
+\setcounter{maxnames}{999}        % Show all authors
+
+\begin{document}
+
+\nocite{*}
+\renewcommand\bibname{List of Publications of Katja Kero}
+\printbibheading
+
+% Print each section with its own numbering
+\sloppy
+\raggedright
+\printbibliography[subtype=thesis,heading=subbibliography,title=Theses,resetnumbers=true]
+\printbibliography[subtype=international-peer-reviewed,heading=subbibliography,title=International Peer-Reviewed Articles,resetnumbers=true]
+\printbibliography[subtype=international-peer-reviewed-submitted,heading=subbibliography,title=International Peer-Reviewed Articles (Submitted),resetnumbers=true]
+\printbibliography[subtype=book-chapter,heading=subbibliography,title=Book Chapters,resetnumbers=true]
+\printbibliography[subtype=finnish-article,heading=subbibliography,title=Finnish Articles,resetnumbers=true]
+\printbibliography[subtype=accepted-finnish-article,heading=subbibliography,title=Accepted Finnish Articles,resetnumbers=true]
+\printbibliography[subtype=popular-article,heading=subbibliography,title=Popular Articles,resetnumbers=true]
+
+\section*{Editorial Work}
+
+\subsection*{Sexual Medicine Textbook, Duodecim Publishing Company Ltd}
+• 1st edition (2020) – one of four editors of the first Finnish-language comprehensive textbook (761 pages, 42 authors), authored 9 chapters
+
+• 2nd edition (2025) – served again as editor, authored 11 chapters
+
+\subsection*{Theme Issue Editor, Duodecim Academic Journal}
+• Guest editor (with Professor Päivi Polo) of the special theme issue "Impact of Diseases on Sexual Health" (2020).
+
+• Contributed both an editorial and a scientific article to the issue.
+
+\subsection*{Guest Editor, Maturitas}
+Special Issue on Sexual Medicine.
+
+\subsection*{Presentations}
+Numerous scientific presentations nationally and internationally.
+
+\end{document} 
