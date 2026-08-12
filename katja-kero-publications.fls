@@ -1,8 +1,8 @@
-PWD /Users/ville/projects/latex/katja-publication-list-2025
+PWD /Users/ville/projects/latex/katja-publication-list
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT katja-kero-publications.tex
+INPUT /Users/ville/projects/latex/katja-publication-list/katja-kero-publications.tex
 OUTPUT katja-kero-publications.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tufte-latex/tufte-book.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tufte-latex/tufte-book.cls

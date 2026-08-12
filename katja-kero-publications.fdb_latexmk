@@ -1,19 +1,21 @@
 # Fdb version 4
-["biber katja-kero-publications"] 1777620992 "katja-kero-publications.bcf" "katja-kero-publications.bbl" "katja-kero-publications" 1777620998 0
+["biber katja-kero-publications"] 1786525746 "katja-kero-publications.bcf" "katja-kero-publications.bbl" "katja-kero-publications" 1786525754 0
   "./accepted-finnish-articles.bib" 1777620991 352 49bd5e70f50666f77c8a319332ba9e19 ""
-  "./book-chapters.bib" 1755367126 10395 834b65ad386d8f1f0c12999bc02dc7cf ""
+  "./book-chapters.bib" 1786525700 11036 5705d9383640bcc739912f9b00899714 ""
+  "./finnish-articles-submitted.bib" 1786525626 1303 eaf609ccf354c750b43c6e403865edaf ""
   "./finnish-publications.bib" 1765702342 8004 8a5b89a2ce528d68c56fefa0ec824b8d ""
   "./international-peer-reviewed-submitted.bib" 1777620864 154 536798150f47eb2ae65d0b1a9971cfd6 ""
   "./international-peer-reviewed.bib" 1777620748 28243 c4452df6adc6fa548021242c952deaa3 ""
-  "./popular-articles.bib" 1777620911 5209 716de55fbd2f07734bd57f93b3980b33 ""
+  "./popular-articles.bib" 1786354899 5543 a95a600b0eb42249dbecf058d5137694 ""
   "./theses.bib" 1737063880 977 744d1066740ee4aedccfb9542e3752ac ""
-  "katja-kero-publications.bcf" 1777620997 108378 5081f370e535d5eee9cf737e49b93b53 "pdflatex"
+  "katja-kero-publications.bcf" 1786525754 108489 62cb27834f1b9e4e088d6664ab61c52d "pdflatex"
   (generated)
   "katja-kero-publications.bbl"
   "katja-kero-publications.blg"
   (rewritten before read)
-["pdflatex"] 1777620996 "katja-kero-publications.tex" "katja-kero-publications.pdf" "katja-kero-publications" 1777620998 0
-  "/dev/null" 1777620997 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1786525753 "/Users/ville/projects/latex/katja-publication-list/katja-kero-publications.tex" "katja-kero-publications.pdf" "katja-kero-publications" 1786525754 0
+  "/Users/ville/projects/latex/katja-publication-list/katja-kero-publications.tex" 1786525746 3174 a3a841c32ebc9a06074034f8f2c6b591 ""
+  "/dev/null" 1786525747 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm" 1136768653 2796 d37c29814a6717720ee1a7c9a0b2c3b8 ""
@@ -149,11 +151,11 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710103833 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1710103831 7883457 eb4f553dff48a9ba815d694475bf4eee ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "katja-kero-publications.aux" 1777620997 18995 7b442db5b5663ee886e30d3b77e1bfed "pdflatex"
-  "katja-kero-publications.bbl" 1777620994 203117 c0d5d66a952df9755b303581a74257fb "biber katja-kero-publications"
-  "katja-kero-publications.out" 1777620997 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "katja-kero-publications.run.xml" 1777620997 2750 683a2cc12516ccfb7388fd80f0e9d9e9 "pdflatex"
-  "katja-kero-publications.tex" 1777620820 2994 f264e1c9a90f10886f7479aba08576b3 ""
+  "katja-kero-publications.aux" 1786525754 20155 b2d9d34e33961101a4fcf5972296592d "pdflatex"
+  "katja-kero-publications.bbl" 1786525749 213489 49b4482457cd57ab32697172e0236658 "biber katja-kero-publications"
+  "katja-kero-publications.out" 1786525753 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "katja-kero-publications.run.xml" 1786525754 2800 344f3d53094e114f2adedc94b292ae4f "pdflatex"
+  "katja-kero-publications.tex" 1786525746 3174 a3a841c32ebc9a06074034f8f2c6b591 ""
   (generated)
   "katja-kero-publications.aux"
   "katja-kero-publications.bcf"
